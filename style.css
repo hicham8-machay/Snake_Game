@@ -1,0 +1,86 @@
+/*.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+    font-family: consolas, monospace;
+}
+#timeDisplay{
+    font-size: 75px;
+    color: #40c437;
+    font-family: consolas, monospace;
+}
+#timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222222;
+}*/
+
+/*
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+
+}
+#gameDiv{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
+*/
+/*tic tac teo
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    font-size: 50px;
+    cursor: pointer;
+}
+#gameContainer{
+  font-family: "Permanent Marker" , cursive;  
+  text-align: center;
+}
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3 , auto);
+    width: 225px;
+    margin: auto;
+
+}
+*/
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "Permanent Marker" cursive;
+    font-size: 100px;
+}
+#resetBtn{
+    font-family: "Permanent Marker" cursive;
+font-size: 22px;
+width: 100px;
+height: 50px;
+border: 4px solid;
+border-radius: 15px;
+cursor: pointer;
+}
+
